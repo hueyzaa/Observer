@@ -22,6 +22,7 @@ class Program
         supplierA.Subscribe(bob);
         d1("bob");    
         supplierB.Subscribe(bob);
+        d1("bob"); 
         supplierB.Subscribe(charlie);
 
         // Gửi thông báo
