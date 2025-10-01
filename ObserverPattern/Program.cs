@@ -35,5 +35,11 @@ class Program
         //Delegate goodbye
         d2("Bob");
         supplierA.Notify("Chi con 10 san pham cuoi cung.");
+        
+
+
+        // Multicast delegate (gộp nhiều method)
+        MyDelegate d3 = d1 + d2;
+        d3("Charlie");
     }
 }
