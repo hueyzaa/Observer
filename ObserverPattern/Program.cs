@@ -32,7 +32,8 @@ class Program
 
         // Bob hủy đăng ký khỏi SupplierA
         supplierA.Dissuprier(bob);
-
+        //Delegate goodbye
+        d2("Bob");
         supplierA.Notify("Chi con 10 san pham cuoi cung.");
     }
 }
