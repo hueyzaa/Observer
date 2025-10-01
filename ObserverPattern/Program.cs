@@ -16,6 +16,9 @@ class Program
         
         // Đăng ký
         supplierA.Subscribe(alice);
+        // Gọi delegate
+        d1("Alice");
+        
         supplierA.Subscribe(bob);
 
         supplierB.Subscribe(bob);
