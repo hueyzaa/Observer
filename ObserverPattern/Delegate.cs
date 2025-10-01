@@ -1,5 +1,7 @@
 ﻿namespace ObserverPattern;
 
+public  delegate void MyDelegate(string message);
+
 public class Delegate
 {
     public static void SayHello(string msg)
