@@ -12,3 +12,4 @@ C:\Users\PC\RiderProjects\ObserverPattern\ObserverPattern\obj\Debug\net9.0\refin
 C:\Users\PC\RiderProjects\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ObserverPattern.pdb
 C:\Users\PC\RiderProjects\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ObserverPattern.genruntimeconfig.cache
 C:\Users\PC\RiderProjects\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ref\ObserverPattern.dll
+C:\Users\PC\RiderProjects\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ObserverPattern.sourcelink.json
