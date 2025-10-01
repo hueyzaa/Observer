@@ -10,7 +10,10 @@ class Program
         var alice = new Subscriber("Alice");
         var bob = new Subscriber("Bob");
         var charlie = new Subscriber("Charlie");
-
+        
+        MyDelegate d1 = Delegate.SayHello;
+        MyDelegate d2 = Delegate.SayGoodbye;
+        
         // Đăng ký
         supplierA.Subscribe(alice);
         supplierA.Subscribe(bob);
