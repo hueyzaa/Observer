@@ -20,7 +20,7 @@ class Program
         d1("Alice");
         
         supplierA.Subscribe(bob);
-
+        d1("bob");    
         supplierB.Subscribe(bob);
         supplierB.Subscribe(charlie);
 
